@@ -1,0 +1,11 @@
+1. upload all the file needed for challenge //
+2. work on model folder files 
+    a. catagory //
+    b. tags // 
+    c. product // 
+    d. product tags //
+    e. index //
+3. work on api folder files
+    a. catagory routes //
+    b. product routes 
+    c. tag routes 
